@@ -40,7 +40,7 @@ cd rnaseq_analysis
 conda install -c conda-forge -c bioconda snakemake
 ```
 3. Test the pipeline: Dry Run
-   ```bash
-   ##local machine
-   snakemake -n 
-   ```
+```bash
+##local machine
+snakemake -n 
+```
